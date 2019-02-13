@@ -25,10 +25,11 @@ public class Testing {
             myArray[index] = fin1.nextLine();
 
 
-            String[] splitArray;
-            splitArray = myArray[index].split("~");
+            //String[] splitArray;
+           // splitArray = myArray[index].split("~");
 
-            System.out.println(splitArray[index] + " ");
+           // System.out.println(splitArray[index] + " ");
+            System.out.println(myArray[index]);
 
         }
 
